@@ -1,4 +1,6 @@
 package com.senacsp.tads.library.presentation;
 
-public class UserController implements UserService{
+import com.senacsp.tads.library.service.UserService;
+
+public class UserController implements UserService {
 }
